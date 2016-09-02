@@ -2,3 +2,4 @@ test sth
 hello world
 test git diff
 test git reset
+test git checkout
