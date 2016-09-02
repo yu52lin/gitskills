@@ -1,3 +1,4 @@
 test sth
 hello world
 test git diff
+test git reset
